@@ -1,4 +1,6 @@
-Hey there! 👋 I'm Hanna, a cloud engineer and python enthusiast, currently honing my skills and learning Amazon Web Services. I'm constantly exploring new technologies and building cool projects. Welcome to my corner of the GitHub universe! 🚀 Let's connect...
+Hey there! I'm Hanna, a cloud engineer and python enthusiast, currently honing my skills and learning Amazon Web Services. I'm constantly exploring new technologies and building cool projects. Welcome to my corner of the GitHub universe! 🚀 Let's connect...
+
+
 - 🌍 I'm based in the UK.
 - 🧠 I’m currently learning #CloudComputing #Cybersecurity #AWS
 - ⚡ Fun fact about me: I have recently started horse riding and currently training for my first hack.
