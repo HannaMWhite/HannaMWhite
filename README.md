@@ -9,7 +9,7 @@ Hey there! I'm Hanna, a cloud engineer and python enthusiast, currently honing m
 
 ### Projects    
 
-- <http://google.com|like this>
+- [like this](http://someurl.com)
 
 --- 
 
