@@ -9,7 +9,7 @@ Hey there! I'm Hanna, a cloud engineer and python enthusiast, currently honing m
 
 ### Projects    
 
-- [like this](http://someurl.com)
+- [Astro Finder](https://github.com/HannaMWhite/Python-Projects/blob/main/astrologicalfinder.py)
 
 --- 
 
