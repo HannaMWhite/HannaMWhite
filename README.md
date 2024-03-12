@@ -9,7 +9,7 @@ Hey there! I'm Hanna, a cloud engineer and python enthusiast, currently honing m
 
 ### Projects    
 
-- coming soon
+- <http://google.com|like this>
 
 --- 
 
